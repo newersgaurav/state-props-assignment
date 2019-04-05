@@ -1,0 +1,16 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.dish-card{
+	width: 60%;
+	margin: auto;
+	border: 2px solid black;
+	border-radius: 4px;
+	
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 5px;
+}
